@@ -1751,6 +1751,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FoxForm](https://foxform.app) `https://mcp.foxform.app/mcp`
   [![FoxForm MCP connector](https://glama.ai/mcp/connectors/app.foxform.mcp/fox-form/badges/score.svg)](https://glama.ai/mcp/connectors/app.foxform.mcp/fox-form)
   🔓 - Build scored forms, quizzes and calculators, publish them, and read responses with per-screen analytics.
+- [GetAppNiche](https://getappniche.com/mcp) `https://api.getappniche.com/mcp`
+  [![GetAppNiche MCP connector](https://glama.ai/mcp/connectors/com.getappniche/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.getappniche/mcp)
+  🔑 - App Store and Google Play data: app search, revenue and download estimates, keywords and reviews.
 - [GingerLive](https://gingerlive.io) `https://mcp.gingerlive.io/mcp`
   [![GingerLive MCP connector](https://glama.ai/mcp/connectors/io.gingerlive/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.gingerlive/mcp)
   🔓 - Livestream ad formats, network reach stats, campaign case studies and streamer program.
